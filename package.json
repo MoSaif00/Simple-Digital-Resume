@@ -1,0 +1,23 @@
+{
+  "name": "Simple-Digital-Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoSaif00/Simple-Digital-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoSaif00/Simple-Digital-Resume/issues"
+  },
+  "homepage": "https://MoSaif00/github.io/Simple-Digital-Resume",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
